@@ -1,0 +1,7 @@
+"0","x <- eeg_x$V1 # x axis for compare"
+"0","y <- eeg_y$V1 # y axis for compare "
+"0","cor(x, y, method = c(""pearson"", ""kendall"", ""spearman""))"
+"1","[1]"
+"1"," 0.7288988"
+"1","
+"

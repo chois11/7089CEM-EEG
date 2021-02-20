@@ -1,0 +1,2 @@
+"0","eeg_x_y <- cbind(eeg_x,eeg_y)"
+"0","eeg_combined <- cbind(eeg_time, eeg_x, eeg_y)"

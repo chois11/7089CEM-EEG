@@ -1,0 +1,7 @@
+"0","# Kernel Density Plot"
+"0","par(mfrow=c(2,2))"
+"0","eeg_x1 <- density(eeg_x$V1) # returns the density data"
+"0","eeg_x2 <- density(eeg_x$V2) # returns the density data"
+"0","eeg_x3 <- density(eeg_x$V3) # returns the density data"
+"0","eeg_x4 <- density(eeg_x$V4) # returns the density data"
+"0","plot(eeg_x1 ,main=""Distribution V1"") # plots the results"

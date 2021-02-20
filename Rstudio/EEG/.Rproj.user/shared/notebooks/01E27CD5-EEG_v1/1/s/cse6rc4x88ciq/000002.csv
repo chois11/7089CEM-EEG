@@ -1,0 +1,4 @@
+"0","par(mfrow=c(2,2))"
+"0","matplot(eeg_time, eeg_x[1], main=""V1"", xlab=""Time"", ylab=""Input X"", type=""l"",col=c(""black""),lty=c(1,1))"
+"2","NAs introduced by coercion"
+"2","NAs introduced by coercion"

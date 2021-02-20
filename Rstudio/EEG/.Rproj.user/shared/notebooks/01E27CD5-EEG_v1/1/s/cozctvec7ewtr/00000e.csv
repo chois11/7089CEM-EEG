@@ -1,0 +1,8 @@
+"0",""
+"0",""
+"0","#X V4"
+"0","x <- eeg_x$V4 # x axis for compare"
+"0","y <- eeg_y$V1 # y axis for compare #output"
+"0","# Plot with main and axis titles"
+"0","plot(x, y, main = ""Correlation between X V4 and Y"","
+"0","     xlab = ""X V4"", ylab = ""Y V1"")"

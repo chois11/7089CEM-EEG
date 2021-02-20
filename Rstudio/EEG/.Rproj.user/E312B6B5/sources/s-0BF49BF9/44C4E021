@@ -1,0 +1,33 @@
+{
+    "id": "44C4E021",
+    "path": "Z:/home/sunggu/7089CEM-IntroToStatistic/Rstudio/EEG/EEG_v1.Rmd",
+    "project_path": "EEG_v1.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1613847219723.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "253,29",
+        "scrollLine": "243",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualModeLocation": "60:0",
+        "docOutlineSize": "204"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1613848616,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1613848616253,
+    "read_only": false,
+    "read_only_alternatives": []
+}

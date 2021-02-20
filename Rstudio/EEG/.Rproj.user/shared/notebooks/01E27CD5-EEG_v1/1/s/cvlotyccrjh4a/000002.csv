@@ -1,0 +1,2 @@
+"0","colnames(eeg_combined)[1] <- ""time"""
+"0","colnames(eeg_combined)[6] <- ""result"""
