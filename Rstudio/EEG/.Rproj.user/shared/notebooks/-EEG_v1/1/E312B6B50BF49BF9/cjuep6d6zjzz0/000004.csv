@@ -1,0 +1,2 @@
+"0","# Add regression line"
+"0","abline(lm(y ~ x, data = eeg_x[1]), col = ""blue"")"

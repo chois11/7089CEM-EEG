@@ -1,0 +1,4 @@
+"0","# Add regression line"
+"0","#plot(x, y, main = ""Correlation between X V4 and Y V1"", xlab = ""X V4"", ylab = ""Y V1"")"
+"0","abline(lm(y ~ x, data = eeg_x[4]), col = ""blue"")"
+"0",""
